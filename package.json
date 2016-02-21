@@ -1,0 +1,38 @@
+{
+  "name": "testnpm_123",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "dimasavchenko"
+  },
+  "license": "ISC",
+  "_id": "testnpm_123@1.0.1",
+  "_shasum": "8351308771be690ee1d3c47ff294526911e03499",
+  "_from": "testnpm_123@*",
+  "_npmVersion": "2.14.16",
+  "_nodeVersion": "0.10.37",
+  "_npmUser": {
+    "name": "dimasavchenko",
+    "email": "dimasauchanka@gmail.com"
+  },
+  "dist": {
+    "shasum": "8351308771be690ee1d3c47ff294526911e03499",
+    "tarball": "http://registry.npmjs.org/testnpm_123/-/testnpm_123-1.0.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "dimasavchenko",
+      "email": "dimasauchanka@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-9-west.internal.npmjs.com",
+    "tmp": "tmp/testnpm_123-1.0.1.tgz_1455183837753_0.8818717394024134"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/testnpm_123/-/testnpm_123-1.0.1.tgz"
+}
